@@ -2,7 +2,7 @@
 
 This repository contains solutions to various C++ programming challenges from the 42 School curriculum. Each module is designed to deepen students' understanding of different programming concepts and techniques.
 
-## **Modules**
+## **Exercises**
 
 ### **ex00 - Conversion of scalar types**
 A program that converts various scalar types (char, int, float, double) from a string representation.
@@ -37,7 +37,7 @@ To install the project, follow these steps:
 
 1. Clone the repository: **`git clone git@github.com:jakobsitory/05_CPP06_42CC.git`**
 2. Navigate to the project directory: **`cd 05_CPP06_42CC`**
-3. Navigate to the excercise directory : **`cd ex00`**,  **`cd ex01`** ...
+3. Navigate to the exercise directory : **`cd ex00`**,  **`cd ex01`** ...
 4. Build the project: **`make`**
 
 ## **Usage**
